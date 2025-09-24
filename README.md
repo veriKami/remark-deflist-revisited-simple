@@ -1,4 +1,4 @@
-# Remark Deflist Revisited \\\°// Simple Example
+# Remark Deflist Revisited °// Simple Example
 
 [![GH][GH Badge]][GH]
 [![NPM][NPM Badge]][NPM]
